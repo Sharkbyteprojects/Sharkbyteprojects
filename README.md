@@ -1,4 +1,11 @@
 I have no idea what to write about myself?
+
+## main Programming Lang
+
+- C++
+- C#
+- JS / NodeJS / TypeScript
+
 <!---
 - 👋 Hi, I’m @Sharkbyteprojects
 - 👀 I’m interested in ...
