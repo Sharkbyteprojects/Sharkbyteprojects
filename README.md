@@ -2,8 +2,8 @@ I have no idea what to write about myself?
 
 ## main Programming Lang
 
-- C++
-- C#
+- C++ / C / Unreal Engine
+- C# / Unity
 - JS / NodeJS / TypeScript
 
 <!---
